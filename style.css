@@ -1,0 +1,22 @@
+body{
+    background-color: blueviolet;
+}
+.header_div{
+    background-color: white;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+.main_div button{
+    margin-top: 20px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 22px;
+}
+.footer{
+    position: fixed;
+    text-align: center;
+    background-color: white;
+    bottom: 0;
+    width: 100%;
+    line-height: 4;
+    text-shadow: 9px 7px 10px black;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
